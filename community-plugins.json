@@ -19278,10 +19278,10 @@
     "repo": "santiyounger/wpm-reading-time"
   },
   {
-  "id": "ask-ai",
-  "name": "AskAI",
-  "author": "owoahe",
-  "description": "AI-powered chat assistant for Obsidian with context awareness, multi-model support, and bilingual UI.",
-  "repo": "owoahe/obsidian-ask-ai"
+    "id": "ask-ai",
+    "name": "AskAI",
+    "author": "owoahe",
+    "description": "AI-powered chat assistant for Obsidian with context awareness, multi-model support, and bilingual UI.",
+    "repo": "owoahe/obsidian-ask-ai"
   }
 ]
